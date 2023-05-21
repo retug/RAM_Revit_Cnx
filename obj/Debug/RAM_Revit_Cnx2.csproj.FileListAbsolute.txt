@@ -1,0 +1,12 @@
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\bin\Debug\RAM_Revit_Cnx2.exe.config
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\bin\Debug\RAM_Revit_Cnx2.exe
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\bin\Debug\RAM_Revit_Cnx2.pdb
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\RAM_Revit_Cnx2.csproj.AssemblyReference.cache
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\RAM_Revit_Cnx2.Form1.resources
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\RAM_Revit_Cnx2.Properties.Resources.resources
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\RAM_Revit_Cnx2.csproj.GenerateResource.cache
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\RAM_Revit_Cnx2.csproj.CoreCompileInputs.cache
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\RAM_Revit_Cnx2.exe
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\RAM_Revit_Cnx2.pdb
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\Interop.RAMDATAACCESSLib.dll
+I:\Common\06 Employee Personal Folders\Austin Guter\RAM_Revit_Cnx2\obj\Debug\RAM_Revit_Cnx2.csproj.ResolveComReference.cache
